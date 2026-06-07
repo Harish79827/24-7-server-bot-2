@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "t_rex_smp00.aternos.me",
-    "port": 48933,
+    "port": 50808,
     "version": "1.20.1",
     "try-creative": false
   },
