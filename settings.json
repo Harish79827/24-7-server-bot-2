@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "nimbu",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "t_rex_smp00.aternos.me",
+    "ip": "Tree_soul_smp.aternos.me",
     "port": 50808,
     "version": "1.20.1",
     "try-creative": false
