@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "GALACTIC_SMP-00.aternos.me",
-    "port": 51169,
+    "ip": "Silvet_00.aternos.me",
+    "port": 47151,
     "version": "1.20.1",
     "try-creative": false
   },
